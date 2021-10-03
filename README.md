@@ -16,5 +16,7 @@
   <img align="center" height="50" width="50" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/mongodb_compass_macos_bigsur_icon_189933.png">
 </div>
 <div> 
+  
   ![Snake animation](https://github.com/exgamext/exgamext/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
