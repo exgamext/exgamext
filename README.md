@@ -14,7 +14,7 @@
   <img align="center" height="50" width="50" src="https://discordjs.guide/meta-image.png">
   <img align="center" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146237.png">
   <img align="center" height="50" width="50" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/mongodb_compass_macos_bigsur_icon_189933.png">
-  <img align="center" height="50" width="50" src="https://w7.pngwing.com/pngs/780/57/png-transparent-node-js-javascript-database-mongodb-native-miscellaneous-text-trademark.png">
+  <img align="center" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png">
 </div>
 <div> 
   
