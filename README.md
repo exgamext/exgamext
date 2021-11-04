@@ -14,6 +14,7 @@
   <img align="center" height="50" width="50" src="https://discordjs.guide/meta-image.png">
   <img align="center" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146237.png">
   <img align="center" height="50" width="50" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/mongodb_compass_macos_bigsur_icon_189933.png">
+  <img align="center" height="50" width="50" src="https://w1.pngwing.com/pngs/885/534/png-transparent-green-grass-nodejs-javascript-react-mean-angularjs-logo-symbol.png">
 </div>
 <div> 
   
