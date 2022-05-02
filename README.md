@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-<h1> Hello! I'm Thiago Vieira, full stack developer and designer! <h1>
+<h1 align="center"> Hello! I'm Thiago Vieira, full stack developer and designer! <h1>
 <br>
 <div align="center">
   <a href="https://github.com/exgamext">
@@ -7,7 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exgamext&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
 <br>
-<h1> My bests technologies skills <h1>
+<h1 align="center"> My bests technologies skills <h1>
 <br>
 <div style="display: inline_block" align="center">
   <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
